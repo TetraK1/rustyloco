@@ -1,0 +1,50 @@
+[
+    {
+        "type": "PointsNode",
+        "name": "PN001",
+        "facing_track": "T001",
+        "normal_track": "T002",
+        "reverse_track": "T003"
+    },
+    {
+        "type": "SimpleNode",
+        "name": "N001",
+        "track_0": "T001",
+        "track_1": "T004"
+    },
+    {
+        "type": "EndNode",
+        "name": "EN001",
+        "track": "T004"
+    },
+    {
+        "type": "EndNode",
+        "name": "EN002",
+        "track": "T002"
+    },
+    {
+        "type": "EndNode",
+        "name": "EN003",
+        "track": "T003"
+    },
+    {
+        "type": "Track",
+        "name": "T001",
+        "length": 10.0
+    },
+    {
+        "type": "Track",
+        "name": "T002",
+        "length": 10.0
+    },
+    {
+        "type": "Track",
+        "name": "T003",
+        "length": 10.0
+    },
+    {
+        "type": "Track",
+        "name": "T004",
+        "length": 10.0
+    }
+]

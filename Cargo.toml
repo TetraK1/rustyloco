@@ -1,0 +1,9 @@
+[package]
+name = "rustyloco"
+version = "0.1.0"
+authors = ["Tetr4 <Tetr4k@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
